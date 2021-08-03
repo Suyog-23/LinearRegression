@@ -10,6 +10,22 @@ it in various real life examples.
 </p>
 
 <p>Would like to see more such examples from you!</p>
+ 
+Run the following commands to get started
+  
+ ```
+  git clone https://github.com/Suyog-23/LinearRegression.git
+  
+  ```
+  ```
+  cd LinearRegression
+  
+  ```
+  ```
+  pip3 install -r requirements.txt
+  
+  ```
+  <p>Run each cell in the jupyter notebook! And you are good to go!</p>
 
 </body>
 
