@@ -2,12 +2,12 @@
 
 <body>
 
-<p><h3 align="center">LinearRegression Implementation in various domains</h3></p>
+<p><h3 align="center">Machine Learning Implementation in various domains</h3></p>
  
 <hr>
 
 <p>Hey there, developers! This is a repository that contains implementation 
-of linear regression, which is basically supervised learning. I have tried to implement 
+of different machine learning alogrithms and types. I have tried to implement 
 it in various real life examples. 
 </p>
 
